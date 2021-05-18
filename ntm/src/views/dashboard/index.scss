@@ -1,0 +1,55 @@
+.dashboard-container {
+
+  .dashboard-nav {
+    .logout-nav {
+      padding-left: 30px;
+    }
+  }
+
+  .dashboard {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+  
+    .accounts-list {
+      .container-fluid {
+        div.row {
+          padding: 10px;
+        }
+      }
+    }
+    
+    .card-buttons {
+      display: flex;
+      justify-content: space-between;
+    
+      .card-buttons-buttons {
+        width: 49%;
+      }
+    }
+  }
+}
+
+.rules-div {
+  display: flex;
+  div {
+    padding-right: 20px;
+  }
+}
+
+.acl-th {
+  div {
+    cursor: pointer;
+    max-height: 32px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    img { 
+      max-height: 15px;
+      padding-left: 20px;
+    }
+  }
+}
+

@@ -1,0 +1,26 @@
+.auth-body {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  left: 40%;
+  top: 25%;
+  min-width: 400px;
+
+  nav {
+    margin-bottom: 5px;
+  }
+
+  .roles-checks {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .form-name {
+    display: flex;
+    justify-content: space-between;
+
+    .form-group {
+      width: 49%;
+    }
+  }
+}
