@@ -1,11 +1,705 @@
 {
   "users": [
     {
-      "id": "8498nfi",
-      "name": "Michael Scofield",
-      "accounts": "[]",
-      "acls": "[]"
+      "firstName": "Gannon",
+      "lastName": "Nevada",
+      "email": "est.vitae.sodales@Donectemporest.edu",
+      "accounts": [],
+      "accountRequestsPending": [
+        "FD1FF5B9-5DFA-C161-7978-DEE668203E7F",
+        "E5426E0C-B131-99D6-E3AC-9DF94D0BF4BA",
+        "48D9C968-299E-76BB-839E-A99B722A0FB5",
+        "6A649491-6DBA-3BE5-A3F6-E034A637849D",
+        "4A13DAF2-90C0-2770-E086-7256BC14D812",
+        "7E99B8D6-3C00-7CB0-EDC3-D942F4C3CEB2",
+        "CC9E470D-A282-BAAB-00BF-403B15E5EB5F",
+        "5AACE9FB-91BA-1D0C-7393-47B98264002C",
+        "DFD824FD-1D7D-D45E-031F-74998A506407",
+        "45DA1D75-96AB-100E-8A45-CB28D9CC22D4",
+        "722A936D-AE13-39CB-2B00-1807256CA652"
+      ],
+      "id": "E3AF7AB0-F40D-D6D8-EC4D-AE794EBD5627",
+      "acls": [],
+      "password": "HMT89VZK1PV"
+    },
+    {
+      "firstName": "Basia",
+      "lastName": "Amery",
+      "email": "sollicitudin.a@loremDonecelementum.net",
+      "accounts": [],
+      "accountRequestsPending": [
+        "DFD824FD-1D7D-D45E-031F-74998A506407",
+        "FD1FF5B9-5DFA-C161-7978-DEE668203E7F",
+        "5AACE9FB-91BA-1D0C-7393-47B98264002C",
+        "45DA1D75-96AB-100E-8A45-CB28D9CC22D4",
+        "722A936D-AE13-39CB-2B00-1807256CA652",
+        "7E99B8D6-3C00-7CB0-EDC3-D942F4C3CEB2",
+        "E5426E0C-B131-99D6-E3AC-9DF94D0BF4BA",
+        "763D4103-7F36-5671-14A5-EFACD7FF3A91",
+        "48D9C968-299E-76BB-839E-A99B722A0FB5",
+        "573CF3C3-32EF-154C-7BEE-72CF6E8C9EE6"
+      ],
+      "id": "0C034CA1-43FC-E544-8A3F-A883C1D408E8",
+      "acls": [],
+      "password": "NZP99AZC3JM"
+    },
+    {
+      "firstName": "Kelly",
+      "lastName": "Cole",
+      "email": "lorem.eu@consequat.org",
+      "accounts": [],
+      "accountRequestsPending": [
+        "DFD824FD-1D7D-D45E-031F-74998A506407",
+        "7E99B8D6-3C00-7CB0-EDC3-D942F4C3CEB2",
+        "FD1FF5B9-5DFA-C161-7978-DEE668203E7F",
+        "E5426E0C-B131-99D6-E3AC-9DF94D0BF4BA",
+        "5AACE9FB-91BA-1D0C-7393-47B98264002C",
+        "763D4103-7F36-5671-14A5-EFACD7FF3A91",
+        "45DA1D75-96AB-100E-8A45-CB28D9CC22D4",
+        "722A936D-AE13-39CB-2B00-1807256CA652"
+      ],
+      "id": "6ED2F0DD-D81F-468A-55BF-583208FCAF99",
+      "acls": [],
+      "password": "PNC65HLT7VX"
+    },
+    {
+      "firstName": "Quin",
+      "lastName": "Axel",
+      "email": "Curabitur@ategestasa.org",
+      "accounts": [],
+      "accountRequestsPending": [
+        "DFD824FD-1D7D-D45E-031F-74998A506407",
+        "7E99B8D6-3C00-7CB0-EDC3-D942F4C3CEB2",
+        "FD1FF5B9-5DFA-C161-7978-DEE668203E7F",
+        "E5426E0C-B131-99D6-E3AC-9DF94D0BF4BA",
+        "5AACE9FB-91BA-1D0C-7393-47B98264002C",
+        "763D4103-7F36-5671-14A5-EFACD7FF3A91",
+        "45DA1D75-96AB-100E-8A45-CB28D9CC22D4",
+        "48D9C968-299E-76BB-839E-A99B722A0FB5",
+        "722A936D-AE13-39CB-2B00-1807256CA652"
+      ],
+      "id": "0CBA726F-98B7-9B0A-679C-37FDDECFFFC2",
+      "acls": [],
+      "password": "QYH29ABY1ET"
+    },
+    {
+      "firstName": "Ori",
+      "lastName": "Nerea",
+      "email": "Nulla.tincidunt@quis.org",
+      "accounts": [],
+      "accountRequestsPending": [
+        "DFD824FD-1D7D-D45E-031F-74998A506407",
+        "FD1FF5B9-5DFA-C161-7978-DEE668203E7F",
+        "5AACE9FB-91BA-1D0C-7393-47B98264002C",
+        "45DA1D75-96AB-100E-8A45-CB28D9CC22D4",
+        "722A936D-AE13-39CB-2B00-1807256CA652",
+        "7E99B8D6-3C00-7CB0-EDC3-D942F4C3CEB2",
+        "E5426E0C-B131-99D6-E3AC-9DF94D0BF4BA",
+        "763D4103-7F36-5671-14A5-EFACD7FF3A91",
+        "48D9C968-299E-76BB-839E-A99B722A0FB5"
+      ],
+      "id": "5454C387-9383-A036-B697-68C8D6223AF5",
+      "acls": [],
+      "password": "DSL54BPW0FD"
+    },
+    {
+      "firstName": "Kaitlin",
+      "lastName": "Evangeline",
+      "email": "Suspendisse@sit.com",
+      "accounts": [],
+      "accountRequestsPending": [],
+      "id": "991E3CC8-6A23-CF55-BDA6-FEBD7F0E5A85",
+      "acls": [],
+      "password": "FGZ69LTR5EI"
+    },
+    {
+      "firstName": "Keelie",
+      "lastName": "Hollee",
+      "email": "quis@porttitor.edu",
+      "accounts": [],
+      "accountRequestsPending": [],
+      "id": "050AE1B1-A91E-67F7-4B27-1D890354FFF3",
+      "acls": [],
+      "password": "YBM11BIX4CW"
+    },
+    {
+      "firstName": "Sean",
+      "lastName": "Byron",
+      "email": "vitae.risus.Duis@lectus.ca",
+      "accounts": [],
+      "accountRequestsPending": [],
+      "id": "491B6647-E759-902D-9AA5-D5C3CDB3B10F",
+      "acls": [],
+      "password": "GOR33DYC8ES"
+    },
+    {
+      "firstName": "Raja",
+      "lastName": "Timothy",
+      "email": "sollicitudin.orci.sem@Nam.edu",
+      "accounts": [],
+      "accountRequestsPending": [],
+      "id": "018776BC-B469-C015-7EBF-10FC2A34B657",
+      "acls": [],
+      "password": "FIM67VCS8GG"
+    },
+    {
+      "id": "E7668C00-FCD9-2D78-45A3-B7A4044AB59D",
+      "firstName": "Colleen",
+      "lastName": "Aphrodite",
+      "email": "a@a.a",
+      "password": "aaa",
+      "accounts": [
+        {
+          "accountId": "DFD824FD-1D7D-D45E-031F-74998A506407",
+          "roles": [
+            "Create",
+            "Read"
+          ]
+        },
+        {
+          "accountId": "45DA1D75-96AB-100E-8A45-CB28D9CC22D4",
+          "roles": [
+            "Create",
+            "Read",
+            "Update",
+            "Delete"
+          ]
+        },
+        {
+          "accountId": "7E99B8D6-3C00-7CB0-EDC3-D942F4C3CEB2",
+          "roles": [
+            "Create",
+            "Read",
+            "Update",
+            "Delete"
+          ]
+        }
+      ],
+      "accountRequestsPending": [
+        "E5426E0C-B131-99D6-E3AC-9DF94D0BF4BA",
+        "5AACE9FB-91BA-1D0C-7393-47B98264002C",
+        "763D4103-7F36-5671-14A5-EFACD7FF3A91",
+        "48D9C968-299E-76BB-839E-A99B722A0FB5",
+        "FD1FF5B9-5DFA-C161-7978-DEE668203E7F"
+      ],
+      "acls": [
+        {
+          "id": "3da38e65-1550-4a2b-a3ad-f9efcd6c8cd2",
+          "name": "Block Sahara Office",
+          "account": "DFD824FD-1D7D-D45E-031F-74998A506407",
+          "accountName": "Western Sahara",
+          "sourceIP": "10.20.30.x",
+          "sourceProtocol": "TCP",
+          "sourceDecesion": "Deny",
+          "type": "Source"
+        },
+        {
+          "id": "17ad564b-7cd8-4a00-aad8-bca0e576337d",
+          "name": "Block Curacao",
+          "account": "45DA1D75-96AB-100E-8A45-CB28D9CC22D4",
+          "accountName": "Curaçao",
+          "sourceIP": "20.30.40.x",
+          "sourceProtocol": "TCP",
+          "sourceDecesion": "Deny",
+          "type": "Source"
+        },
+        {
+          "id": "44d0e8fb-8d28-423e-aa33-6aa457fa9f29",
+          "name": "Only Allow Turkey To Our Office",
+          "accountId": "7E99B8D6-3C00-7CB0-EDC3-D942F4C3CEB2",
+          "accountName": "Turkey",
+          "destinationIP": "198.125.45.x",
+          "destinationeProtocol": "UDP",
+          "destinationeDecesion": "Allow",
+          "type": "Destination"
+        },
+        {
+          "id": "fcc26f32-f6ed-4e12-a4ce-5f7cd2ded9af",
+          "name": "Block Turkey",
+          "accountId": "7E99B8D6-3C00-7CB0-EDC3-D942F4C3CEB2",
+          "accountName": "Turkey",
+          "type": "Source",
+          "sourceIP": "45.45.x.y",
+          "sourceProtocol": "TCP",
+          "sourceDecesion": "Allow"
+        }
+      ]
+    },
+    {
+      "id": "f6d82a9d-ff7d-4c0b-9133-4473b0111607",
+      "firstName": "Dev",
+      "lastName": "Nigam",
+      "email": "devnigam24@gmail.com",
+      "password": "qwerty",
+      "accounts": [
+        {
+          "accountId": "DFD824FD-1D7D-D45E-031F-74998A506407",
+          "roles": [
+            "Create",
+            "Read",
+            "Update",
+            "Delete"
+          ]
+        },
+        {
+          "accountId": "FD1FF5B9-5DFA-C161-7978-DEE668203E7F",
+          "roles": [
+            "Read"
+          ]
+        },
+        {
+          "accountId": "5AACE9FB-91BA-1D0C-7393-47B98264002C",
+          "roles": [
+            "Create",
+            "Read",
+            "Update",
+            "Delete"
+          ]
+        },
+        {
+          "accountId": "45DA1D75-96AB-100E-8A45-CB28D9CC22D4",
+          "roles": [
+            "Create",
+            "Read",
+            "Update",
+            "Delete"
+          ]
+        }
+      ],
+      "accountRequestsPending": [
+        "48D9C968-299E-76BB-839E-A99B722A0FB5",
+        "763D4103-7F36-5671-14A5-EFACD7FF3A91",
+        "E5426E0C-B131-99D6-E3AC-9DF94D0BF4BA",
+        "7E99B8D6-3C00-7CB0-EDC3-D942F4C3CEB2",
+        "722A936D-AE13-39CB-2B00-1807256CA652"
+      ],
+      "acls": [
+        {
+          "id": "578b9598-fe54-4b4a-8d0a-c66e5f2a37ef",
+          "name": "Block Source Sahara",
+          "accountId": "DFD824FD-1D7D-D45E-031F-74998A506407",
+          "accountName": "Western Sahara",
+          "type": "Source",
+          "sourceIP": "10.20.x.y",
+          "sourceProtocol": "TCP",
+          "sourceDecesion": "Deny"
+        },
+        {
+          "id": "dd9be0b3-b267-4d68-85c4-9ac14c3d682b",
+          "name": "Allow UDP Ghana",
+          "accountId": "5AACE9FB-91BA-1D0C-7393-47B98264002C",
+          "accountName": "Ghana",
+          "type": "Source",
+          "sourceIP": "20.30.x.y",
+          "sourceProtocol": "UDP",
+          "sourceDecesion": "Allow"
+        },
+        {
+          "id": "d71d386f-43da-4dd2-b2ec-9e7ec97f0784",
+          "name": "Allow UDP Curacao",
+          "accountId": "45DA1D75-96AB-100E-8A45-CB28D9CC22D4",
+          "accountName": "Curaçao",
+          "type": "Source",
+          "sourceIP": "120.30.x.y",
+          "sourceProtocol": "UDP",
+          "sourceDecesion": "Allow"
+        },
+        {
+          "id": "c268b4ee-9bad-474e-8dd0-40d7dbf398fb",
+          "name": "Block UDP Curacao",
+          "accountId": "45DA1D75-96AB-100E-8A45-CB28D9CC22D4",
+          "accountName": "Curaçao",
+          "type": "Source",
+          "sourceIP": "20.66.x.y",
+          "sourceProtocol": "UDP",
+          "sourceDecesion": "Allow"
+        }
+      ]
+    },
+    {
+      "id": "159a43c2-9873-4755-933e-7247428234f1",
+      "firstName": "Devvrat",
+      "lastName": "Nigam",
+      "email": "devcn.2491@yahoo.in",
+      "password": "qwerty",
+      "accounts": [
+        {
+          "accountId": "FD1FF5B9-5DFA-C161-7978-DEE668203E7F",
+          "roles": [
+            "Read"
+          ]
+        }
+      ],
+      "accountRequestsPending": [
+        "DFD824FD-1D7D-D45E-031F-74998A506407"
+      ],
+      "acls": []
+    },
+    {
+      "id": "3e488503-f07e-41bd-b162-156a914a5e0a",
+      "firstName": "Jhon",
+      "lastName": "Snow",
+      "email": "Jhon@gmail.com",
+      "password": "qwert",
+      "accounts": [
+        {
+          "accountId": "DFD824FD-1D7D-D45E-031F-74998A506407",
+          "roles": [
+            "Create",
+            "Read",
+            "Update",
+            "Delete"
+          ]
+        },
+        {
+          "accountId": "FD1FF5B9-5DFA-C161-7978-DEE668203E7F",
+          "roles": [
+            "Read"
+          ]
+        },
+        {
+          "accountId": "5AACE9FB-91BA-1D0C-7393-47B98264002C",
+          "roles": [
+            "Create",
+            "Read",
+            "Update",
+            "Delete"
+          ]
+        },
+        {
+          "accountId": "45DA1D75-96AB-100E-8A45-CB28D9CC22D4",
+          "roles": [
+            "Create",
+            "Update"
+          ]
+        }
+      ],
+      "accountRequestsPending": [
+        "722A936D-AE13-39CB-2B00-1807256CA652"
+      ],
+      "acls": [
+        {
+          "id": "e4f6f9ba-5472-4d92-ad2e-b0514e1a8fb6",
+          "name": "Allow Sahara",
+          "accountId": "DFD824FD-1D7D-D45E-031F-74998A506407",
+          "accountName": "Western Sahara",
+          "type": "Source",
+          "sourceIP": "10.20.x.y",
+          "sourceProtocol": "TCP",
+          "sourceDecesion": "Allow"
+        },
+        {
+          "id": "edbb3d79-4106-4618-9d03-91c070d0b161",
+          "name": "Block UDP Sahara",
+          "accountId": "DFD824FD-1D7D-D45E-031F-74998A506407",
+          "accountName": "Western Sahara",
+          "type": "Source",
+          "sourceIP": "20.33.x.y",
+          "sourceProtocol": "UDP",
+          "sourceDecesion": "Allow"
+        },
+        {
+          "id": "3d721afd-9156-4619-9d4c-75c26fad3d79",
+          "name": "Block UDP Ghana",
+          "accountId": "5AACE9FB-91BA-1D0C-7393-47B98264002C",
+          "accountName": "Ghana",
+          "type": "Source",
+          "sourceIP": "33.33.x.y",
+          "sourceProtocol": "UDP",
+          "sourceDecesion": "Deny"
+        },
+        {
+          "id": "73e0af31-0136-46e3-a9c8-059ea50a536d",
+          "name": "Block UDP Ghana Destination",
+          "accountId": "45DA1D75-96AB-100E-8A45-CB28D9CC22D4",
+          "accountName": "Curaçao",
+          "type": "Destination",
+          "destinationIP": "44.44.x.y",
+          "destinationeProtocol": "TCP",
+          "destinationeDecesion": "Deny"
+        }
+      ]
+    },
+    {
+      "id": "c5a9ac94-f2e8-40cb-98e5-882f71d03c90",
+      "firstName": "qwerty",
+      "lastName": "foobar",
+      "email": "qwerty@gmail.com",
+      "password": "qwerty",
+      "accounts": [
+        {
+          "accountId": "DFD824FD-1D7D-D45E-031F-74998A506407",
+          "roles": [
+            "Create",
+            "Read",
+            "Update",
+            "Delete"
+          ]
+        },
+        {
+          "accountId": "FD1FF5B9-5DFA-C161-7978-DEE668203E7F",
+          "roles": [
+            "Update"
+          ]
+        },
+        {
+          "accountId": "5AACE9FB-91BA-1D0C-7393-47B98264002C",
+          "roles": [
+            "Delete"
+          ]
+        }
+      ],
+      "accountRequestsPending": [
+        "45DA1D75-96AB-100E-8A45-CB28D9CC22D4",
+        "722A936D-AE13-39CB-2B00-1807256CA652",
+        "7E99B8D6-3C00-7CB0-EDC3-D942F4C3CEB2",
+        "E5426E0C-B131-99D6-E3AC-9DF94D0BF4BA"
+      ],
+      "acls": [
+        {
+          "id": "f46d6dbf-f8e1-4339-ae16-2ac889807191",
+          "name": "Allow Shara",
+          "accountId": "DFD824FD-1D7D-D45E-031F-74998A506407",
+          "accountName": "Western Sahara",
+          "type": "Source",
+          "sourceIP": "55.55.x.y",
+          "sourceProtocol": "TCP",
+          "sourceDecesion": "Allow"
+        },
+        {
+          "id": "02d91faf-de39-4d32-8b8b-4badb323ebcb",
+          "name": "Block Shara",
+          "accountId": "DFD824FD-1D7D-D45E-031F-74998A506407",
+          "accountName": "Western Sahara",
+          "type": "Source",
+          "sourceIP": "120.20.x.y",
+          "sourceProtocol": "TCP",
+          "sourceDecesion": "Deny"
+        },
+        {
+          "id": "4b71e6b9-3bf0-4531-b892-4fe08bd0ecb3",
+          "name": "Block UDP Shara Destination",
+          "accountId": "DFD824FD-1D7D-D45E-031F-74998A506407",
+          "accountName": "Western Sahara",
+          "type": "Destination",
+          "destinationIP": "10.20.30.y",
+          "destinationeProtocol": "UDP",
+          "destinationeDecesion": "Deny"
+        },
+        {
+          "id": "47277254-4368-40c4-a9e9-55b83b13100b",
+          "name": "Allow UDP Shara Destination",
+          "accountId": "DFD824FD-1D7D-D45E-031F-74998A506407",
+          "accountName": "Western Sahara",
+          "type": "Destination",
+          "destinationIP": "44.20.30.y",
+          "destinationeProtocol": "UDP",
+          "destinationeDecesion": "Allow"
+        }
+      ]
     }
   ],
-  "admins": []
+  "admins": [
+    {
+      "id": "DFD824FD-1D7D-D45E-031F-74998A506407",
+      "accountName": "Western Sahara",
+      "password": "LDT89YGS2RT",
+      "userGroup": [
+        "E7668C00-FCD9-2D78-45A3-B7A4044AB59D",
+        "f6d82a9d-ff7d-4c0b-9133-4473b0111607",
+        "3e488503-f07e-41bd-b162-156a914a5e0a",
+        "c5a9ac94-f2e8-40cb-98e5-882f71d03c90"
+      ],
+      "userGroupRequestedToAdd": [
+        "E3AF7AB0-F40D-D6D8-EC4D-AE794EBD5627",
+        "0C034CA1-43FC-E544-8A3F-A883C1D408E8",
+        "6ED2F0DD-D81F-468A-55BF-583208FCAF99",
+        "0CBA726F-98B7-9B0A-679C-37FDDECFFFC2",
+        "5454C387-9383-A036-B697-68C8D6223AF5",
+        "159a43c2-9873-4755-933e-7247428234f1"
+      ]
+    },
+    {
+      "id": "FD1FF5B9-5DFA-C161-7978-DEE668203E7F",
+      "accountName": "Cyprus",
+      "password": "XBT41GSP2TL",
+      "userGroup": [
+        "f6d82a9d-ff7d-4c0b-9133-4473b0111607",
+        "3e488503-f07e-41bd-b162-156a914a5e0a",
+        "c5a9ac94-f2e8-40cb-98e5-882f71d03c90",
+        "159a43c2-9873-4755-933e-7247428234f1"
+      ],
+      "userGroupRequestedToAdd": [
+        "E7668C00-FCD9-2D78-45A3-B7A4044AB59D",
+        "E3AF7AB0-F40D-D6D8-EC4D-AE794EBD5627",
+        "0C034CA1-43FC-E544-8A3F-A883C1D408E8",
+        "6ED2F0DD-D81F-468A-55BF-583208FCAF99",
+        "0CBA726F-98B7-9B0A-679C-37FDDECFFFC2",
+        "5454C387-9383-A036-B697-68C8D6223AF5"
+      ]
+    },
+    {
+      "id": "5AACE9FB-91BA-1D0C-7393-47B98264002C",
+      "accountName": "Ghana",
+      "password": "RPR55LJU2DU",
+      "userGroup": [
+        "f6d82a9d-ff7d-4c0b-9133-4473b0111607",
+        "3e488503-f07e-41bd-b162-156a914a5e0a",
+        "c5a9ac94-f2e8-40cb-98e5-882f71d03c90"
+      ],
+      "userGroupRequestedToAdd": [
+        "E7668C00-FCD9-2D78-45A3-B7A4044AB59D",
+        "E3AF7AB0-F40D-D6D8-EC4D-AE794EBD5627",
+        "0C034CA1-43FC-E544-8A3F-A883C1D408E8",
+        "6ED2F0DD-D81F-468A-55BF-583208FCAF99",
+        "0CBA726F-98B7-9B0A-679C-37FDDECFFFC2",
+        "5454C387-9383-A036-B697-68C8D6223AF5"
+      ]
+    },
+    {
+      "id": "45DA1D75-96AB-100E-8A45-CB28D9CC22D4",
+      "accountName": "Curaçao",
+      "password": "NWN53SKK1CR",
+      "userGroup": [
+        "E7668C00-FCD9-2D78-45A3-B7A4044AB59D",
+        "f6d82a9d-ff7d-4c0b-9133-4473b0111607",
+        "3e488503-f07e-41bd-b162-156a914a5e0a"
+      ],
+      "userGroupRequestedToAdd": [
+        "E3AF7AB0-F40D-D6D8-EC4D-AE794EBD5627",
+        "0C034CA1-43FC-E544-8A3F-A883C1D408E8",
+        "6ED2F0DD-D81F-468A-55BF-583208FCAF99",
+        "0CBA726F-98B7-9B0A-679C-37FDDECFFFC2",
+        "5454C387-9383-A036-B697-68C8D6223AF5",
+        "c5a9ac94-f2e8-40cb-98e5-882f71d03c90"
+      ]
+    },
+    {
+      "id": "722A936D-AE13-39CB-2B00-1807256CA652",
+      "accountName": "Saint Lucia",
+      "password": "MNM52HGN2GN",
+      "userGroup": [],
+      "userGroupRequestedToAdd": [
+        "f6d82a9d-ff7d-4c0b-9133-4473b0111607",
+        "E3AF7AB0-F40D-D6D8-EC4D-AE794EBD5627",
+        "0C034CA1-43FC-E544-8A3F-A883C1D408E8",
+        "6ED2F0DD-D81F-468A-55BF-583208FCAF99",
+        "0CBA726F-98B7-9B0A-679C-37FDDECFFFC2",
+        "5454C387-9383-A036-B697-68C8D6223AF5",
+        "3e488503-f07e-41bd-b162-156a914a5e0a",
+        "c5a9ac94-f2e8-40cb-98e5-882f71d03c90"
+      ]
+    },
+    {
+      "id": "7E99B8D6-3C00-7CB0-EDC3-D942F4C3CEB2",
+      "accountName": "Turkey",
+      "password": "NZO92HKD9FY",
+      "userGroup": [
+        "E7668C00-FCD9-2D78-45A3-B7A4044AB59D"
+      ],
+      "userGroupRequestedToAdd": [
+        "f6d82a9d-ff7d-4c0b-9133-4473b0111607",
+        "E3AF7AB0-F40D-D6D8-EC4D-AE794EBD5627",
+        "0C034CA1-43FC-E544-8A3F-A883C1D408E8",
+        "6ED2F0DD-D81F-468A-55BF-583208FCAF99",
+        "0CBA726F-98B7-9B0A-679C-37FDDECFFFC2",
+        "5454C387-9383-A036-B697-68C8D6223AF5",
+        "c5a9ac94-f2e8-40cb-98e5-882f71d03c90"
+      ]
+    },
+    {
+      "id": "E5426E0C-B131-99D6-E3AC-9DF94D0BF4BA",
+      "accountName": "United Arab Emirates",
+      "password": "DQY34KRQ9II",
+      "userGroup": [],
+      "userGroupRequestedToAdd": [
+        "E7668C00-FCD9-2D78-45A3-B7A4044AB59D",
+        "f6d82a9d-ff7d-4c0b-9133-4473b0111607",
+        "E3AF7AB0-F40D-D6D8-EC4D-AE794EBD5627",
+        "0C034CA1-43FC-E544-8A3F-A883C1D408E8",
+        "6ED2F0DD-D81F-468A-55BF-583208FCAF99",
+        "0CBA726F-98B7-9B0A-679C-37FDDECFFFC2",
+        "5454C387-9383-A036-B697-68C8D6223AF5",
+        "c5a9ac94-f2e8-40cb-98e5-882f71d03c90"
+      ]
+    },
+    {
+      "id": "763D4103-7F36-5671-14A5-EFACD7FF3A91",
+      "accountName": "Croatia",
+      "password": "HCQ90XYL2HU",
+      "userGroup": [],
+      "userGroupRequestedToAdd": [
+        "E7668C00-FCD9-2D78-45A3-B7A4044AB59D",
+        "f6d82a9d-ff7d-4c0b-9133-4473b0111607",
+        "0C034CA1-43FC-E544-8A3F-A883C1D408E8",
+        "6ED2F0DD-D81F-468A-55BF-583208FCAF99",
+        "0CBA726F-98B7-9B0A-679C-37FDDECFFFC2",
+        "5454C387-9383-A036-B697-68C8D6223AF5"
+      ]
+    },
+    {
+      "id": "48D9C968-299E-76BB-839E-A99B722A0FB5",
+      "accountName": "Tunisia",
+      "password": "AYP73VUJ9QY",
+      "userGroup": [],
+      "userGroupRequestedToAdd": [
+        "E7668C00-FCD9-2D78-45A3-B7A4044AB59D",
+        "f6d82a9d-ff7d-4c0b-9133-4473b0111607",
+        "E3AF7AB0-F40D-D6D8-EC4D-AE794EBD5627",
+        "0C034CA1-43FC-E544-8A3F-A883C1D408E8",
+        "0CBA726F-98B7-9B0A-679C-37FDDECFFFC2",
+        "5454C387-9383-A036-B697-68C8D6223AF5"
+      ]
+    },
+    {
+      "id": "573CF3C3-32EF-154C-7BEE-72CF6E8C9EE6",
+      "accountName": "French Southern Territories",
+      "password": "KTD65VWW0ZB",
+      "userGroup": [],
+      "userGroupRequestedToAdd": [
+        "0C034CA1-43FC-E544-8A3F-A883C1D408E8"
+      ]
+    },
+    {
+      "id": "CC9E470D-A282-BAAB-00BF-403B15E5EB5F",
+      "accountName": "Latvia",
+      "password": "OCV18PPN9NZ",
+      "userGroup": [],
+      "userGroupRequestedToAdd": [
+        "E3AF7AB0-F40D-D6D8-EC4D-AE794EBD5627"
+      ]
+    },
+    {
+      "id": "4A13DAF2-90C0-2770-E086-7256BC14D812",
+      "accountName": "Algeria",
+      "password": "SWB54ARX5ZY",
+      "userGroup": [],
+      "userGroupRequestedToAdd": [
+        "E3AF7AB0-F40D-D6D8-EC4D-AE794EBD5627"
+      ]
+    },
+    {
+      "id": "97059DB1-2BB6-5945-605F-7C3CE1E82796",
+      "accountName": "French Polynesia",
+      "password": "BIJ32TWC1UO",
+      "userGroup": [],
+      "userGroupRequestedToAdd": []
+    },
+    {
+      "id": "6A649491-6DBA-3BE5-A3F6-E034A637849D",
+      "accountName": "New Zealand",
+      "password": "RHB03RLC0AF",
+      "userGroup": [],
+      "userGroupRequestedToAdd": [
+        "E3AF7AB0-F40D-D6D8-EC4D-AE794EBD5627"
+      ]
+    },
+    {
+      "id": "FB616B56-5302-B44C-3405-2268D6D45325",
+      "accountName": "Bhutan",
+      "password": "ZCU42IGQ7BQ",
+      "userGroup": [],
+      "userGroupRequestedToAdd": []
+    }
+  ]
 }
